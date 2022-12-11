@@ -10,7 +10,7 @@
     "cors": "^2.8.5",
     "cron": "^1.8.2",
     "csv-parser": "^2.3.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "fast-csv": "^4.0.2",
     "moment": "^2.24.0",
     "mongoose": "^5.8.9",
